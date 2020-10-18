@@ -14,8 +14,8 @@ I am a sociologist by profession, but my mind has always been about the possibil
 * IntelliJ
 * Trello
 # Courses
-* [SDA:Manual Tester](https://drive.google.com/file/d/1TcyTU1E35oA2iKgWmFj0ID0BsQVWNSAx/view?usp=sharing)
-* [Java Web Developer](https://drive.google.com/file/d/1gjpimD0Kcy1X8K7Pa9ZDRJGi_4qWXjrY/view?usp=sharing)
+* [SDA: Manual Tester](https://drive.google.com/file/d/1TcyTU1E35oA2iKgWmFj0ID0BsQVWNSAx/view?usp=sharing)
+* [CodersLab: Java Web Developer](https://drive.google.com/file/d/1gjpimD0Kcy1X8K7Pa9ZDRJGi_4qWXjrY/view?usp=sharing)
 * [SQL - Structured Query Language](https://drive.google.com/file/d/11x9NjwqsA9qCPaztEkmlBmn5UnjHbKQW/view?usp=sharing)
 * [Letnia Szkoła Admina]()
 * [English Ceryficate 74/1010 - C2 Proficient](https://www.efset.org/cert/ScL1U2)
