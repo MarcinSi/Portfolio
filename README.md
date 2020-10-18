@@ -14,7 +14,7 @@ I am a sociologist by profession, but my mind has always been about the possibil
 * IntelliJ
 * Trello
 # Courses
-* [SDA:Manual Tester](https://sdacademy.pl)
+* [SDA:Manual Tester](https://drive.google.com/file/d/1TcyTU1E35oA2iKgWmFj0ID0BsQVWNSAx/view?usp=sharing)
 * [Java Web Developer](https://coderslab.pl)
 # Udemy Courses
 * ISTQB Foundation Level Training
