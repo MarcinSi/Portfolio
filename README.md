@@ -26,6 +26,9 @@ I am a sociologist by profession, but my mind has always been about the possibil
 * [Intro to Linux Shell Scripting](http://www.udemy.com/certificate/UC-3ALTQ1BW)
 * [Postman Crash Course for Beginners - Learn API Testing](http://www.udemy.com/certificate/UC-80ZEBVI6)
 * [Naucz się tworzenia stron www w języku HTML](http://www.udemy.com/certificate/UC-43ZOALPV)
+# Badges
+* TryHackMe [badge](https://tryhackme-badges.s3.amazonaws.com/Marcin.png)
+* GitHub [Arctic Code Vault Contributor]
 # Groups on Facebook
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
